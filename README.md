@@ -1,7 +1,7 @@
 # QA TicketU - Microservicio de Pagos
 CIN421 / INF423 Prueba de Sistemas
 
-Encargado: Ricardo Muñoz · Integrantes: Simón, Cristóbal, Alonso, Diego
+Encargado: Ricardo Muñoz · Integrantes: Simón Canales, Cristóbal Soto, Alonso Venegas, Diego Fernandez, Pablo Medina
 
 ## Entrega 1 (23/10)
 | Entregable | Archivo |
